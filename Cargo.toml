@@ -1,0 +1,9 @@
+[package]
+name = "mdtotex"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.23"
+minimad = "0.13.1"
+markdown = "1.0.0-alpha.21"
